@@ -29,8 +29,8 @@ window.FORM_CONFIG = {
           id: 'passport_title',
           label: 'Passport Main Heading',
           type: 'text',
-          placeholder: 'e.g. cattia's passport',
-          defaultValue: 'cattia's passport',
+          placeholder: 'e.g. cattia\'s passport',
+          defaultValue: 'cattia\'s passport',
           required: true,
           helpText: 'Primary heading at the top of the passport page.'
         },
@@ -38,8 +38,8 @@ window.FORM_CONFIG = {
           id: 'passport_username_tag',
           label: 'Passport Tag / Username Line',
           type: 'text',
-          placeholder: 'e.g. cattia's passport / @ianjuna',
-          defaultValue: 'cattia's passport / @ianjuna',
+          placeholder: 'e.g. cattia\'s passport / @ianjuna',
+          defaultValue: 'cattia\'s passport / @ianjuna',
           required: true,
           helpText: 'Subtitle tag line beneath the main heading.'
         },
